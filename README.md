@@ -46,7 +46,7 @@
 ### Tutorials
 
 
-## Researchers
+### Researchers
 
 
 ### WebSites
@@ -60,7 +60,9 @@
 
 ### Frameworks
 
+
 ### Tools
+
 
 ### Miscellaneous
 
