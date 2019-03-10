@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-* **[Free Online Books](#free-online-books)**  
+* **[Books](#books)**  
 
 * **[Courses](#courses)**  
 
@@ -29,7 +29,7 @@
 * **[Contributing](#contributing)**  
 
  
-### Free Online Books
+### Books
 
 
 
